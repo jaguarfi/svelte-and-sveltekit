@@ -1,0 +1,16 @@
+.DS_Store
+# VSCode
+.vscode
+
+# Node generated files
+node_modules
+
+# Compiled output
+dist
+
+# Logs
+*.log
+
+# Test coverage
+coverage
+
